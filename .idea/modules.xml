@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0_recap/0_recap.iml" filepath="$PROJECT_DIR$/0_recap/0_recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_05_HelloWorld/Tutorial_05_HelloWorld.iml" filepath="$PROJECT_DIR$/Tutorial_05_HelloWorld/Tutorial_05_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_06_AllTheTypesOfVaribles/Tutorial_06_AllTheTypesOfVaribles.iml" filepath="$PROJECT_DIR$/Tutorial_06_AllTheTypesOfVaribles/Tutorial_06_AllTheTypesOfVaribles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_07_string/Tutorial_07_string.iml" filepath="$PROJECT_DIR$/Tutorial_07_string/Tutorial_07_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_08_If/Tutorial_08_If.iml" filepath="$PROJECT_DIR$/Tutorial_08_If/Tutorial_08_If.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_09_WhileLoops/Tutorial_09_WhileLoops.iml" filepath="$PROJECT_DIR$/Tutorial_09_WhileLoops/Tutorial_09_WhileLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_10_ForLoop/Tutorial_10_ForLoop.iml" filepath="$PROJECT_DIR$/Tutorial_10_ForLoop/Tutorial_10_ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_11.5_RECAP_SO_FAR/Tutorial_11.5_RECAP_SO_FAR.iml" filepath="$PROJECT_DIR$/Tutorial_11.5_RECAP_SO_FAR/Tutorial_11.5_RECAP_SO_FAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_11_user input/Tutorial_11_user input.iml" filepath="$PROJECT_DIR$/Tutorial_11_user input/Tutorial_11_user input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_12_do_while/Tutorial_12_do_while.iml" filepath="$PROJECT_DIR$/Tutorial_12_do_while/Tutorial_12_do_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_13_switch_case/Tutorial_13_switch_case.iml" filepath="$PROJECT_DIR$/Tutorial_13_switch_case/Tutorial_13_switch_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_14_arrays/Tutorial_14_arrays.iml" filepath="$PROJECT_DIR$/Tutorial_14_arrays/Tutorial_14_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_15_arrays_strings/Tutorial_15_arrays_strings.iml" filepath="$PROJECT_DIR$/Tutorial_15_arrays_strings/Tutorial_15_arrays_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_16_mult-dimension_array/Tutorial_16_mult-dimension_array.iml" filepath="$PROJECT_DIR$/Tutorial_16_mult-dimension_array/Tutorial_16_mult-dimension_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_17_Classes/Tutorial_17_Classes.iml" filepath="$PROJECT_DIR$/Tutorial_17_Classes/Tutorial_17_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_19_method_parameters/Tutorial_19_method_parameters.iml" filepath="$PROJECT_DIR$/Tutorial_19_method_parameters/Tutorial_19_method_parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_20_setters_this/Tutorial_20_setters_this.iml" filepath="$PROJECT_DIR$/Tutorial_20_setters_this/Tutorial_20_setters_this.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_21_getters/Tutorial_21_getters.iml" filepath="$PROJECT_DIR$/Tutorial_21_getters/Tutorial_21_getters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_22_constructors/Tutorial_22_constructors.iml" filepath="$PROJECT_DIR$/Tutorial_22_constructors/Tutorial_22_constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_23_statics/Tutorial_23_statics.iml" filepath="$PROJECT_DIR$/Tutorial_23_statics/Tutorial_23_statics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_24_stringBuilder/Tutorial_24_stringBuilder.iml" filepath="$PROJECT_DIR$/Tutorial_24_stringBuilder/Tutorial_24_stringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial_25_toString/Tutorial_25_toString.iml" filepath="$PROJECT_DIR$/Tutorial_25_toString/Tutorial_25_toString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial_18_methods/tutorial_18_methods.iml" filepath="$PROJECT_DIR$/tutorial_18_methods/tutorial_18_methods.iml" />
+    </modules>
+  </component>
+</project>
